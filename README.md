@@ -2,7 +2,7 @@
 
 ### Data Scientist | Researcher
 
-I work at the intersection of **data science, credit risk management, and applied research**. My interests include developing interpretable analytical solutions that support better decisions, improve risk assessment, and create measurable social and economic impact.
+I work at the intersection of **data science, credit risk management, and applied research**. My interests include developing interpretable analytical solutions that support better decisions, improve risk management, and create measurable social and economic impact.
 
 ---
 
