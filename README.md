@@ -21,10 +21,10 @@ An end-to-end project exploring behavioral credit scoring for identifying potent
 
 **Key components:** data preparation, optimal binning, Weight of Evidence (WoE), Information Value (IV), feature selection, logistic regression, model validation, and scorecard development.
 
-### 2. Credit Risk Modelling & Model Validation
-Development and evaluation of interpretable credit-risk models, with emphasis on predictive performance, variable stability, and model diagnostics.
+### 2. Loan Approval Prediction
+Developed an interpretable loan approval prediction model using statistical analysis and logistic regression to identify key determinants of creditworthiness. The project incorporates EDA, multi-collinearity analysis, WoE/IV-based feature engineering, and model stability testing, achieving 97.33% ROC-AUC and a PSI of 0.0042. The findings highlight the role of CIBIL score, loan tenure, and loan-to-income ratio in supporting objective, data-driven lending decisions.
 
-**Key components:** logistic regression, cross-validation, ROC-AUC, KS statistic, precision-recall analysis, coefficient stability, and population stability analysis.
+**Key components:** Data wrangling, exploratory data analysis (EDA), multi-collinearity analysis, Weight of Evidence (WoE) and Information Value (IV) feature engineering, logistic regression, model evaluation (ROC-AUC), model stability testing (PSI), and statistical inference.
 
 ### 3. Large-Truck Crash Severity & Road-Safety Research
 Research applying machine learning and statistical methods to understand crash-severity patterns, identify high-risk locations, and interpret contributing factors.
