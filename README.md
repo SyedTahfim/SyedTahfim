@@ -26,10 +26,9 @@ Developed an interpretable loan approval prediction model using statistical anal
 
 **Key components:** Data wrangling, exploratory data analysis (EDA), multi-collinearity analysis, Weight of Evidence (WoE) and Information Value (IV) feature engineering, logistic regression, model evaluation (ROC-AUC), model stability testing (PSI), and statistical inference.
 
-### 3. Large-Truck Crash Severity & Road-Safety Research
-Research applying machine learning and statistical methods to understand crash-severity patterns, identify high-risk locations, and interpret contributing factors.
-
-**Key components:** clustering, gradient-boosting models, mixed-effects modelling, spatial analysis, class-imbalance techniques, and SHAP-based interpretation.
+### 3. Cryptocurrency Price Analysis & Forecasting
+Explored historical Bitcoin price movements using time-series analysis to understand market trends, identify non-stationary, and investigate forecasting patterns. Applied statistical techniques to analyze price behavior and forecast future trends using the ARIMA model.
+**Key components:** Historical data analysis, moving average calculations (SMA, CMA, EMA), time-series visualization, stationarity testing, differencing, trend analysis, ARIMA modelling, and Bitcoin price forecasting. 
 
 ---
 
