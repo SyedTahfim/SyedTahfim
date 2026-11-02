@@ -28,6 +28,7 @@ Developed an interpretable loan approval prediction model using statistical anal
 
 ### 3. Cryptocurrency Price Analysis & Forecasting
 Explored historical Bitcoin price movements using time-series analysis to understand market trends, identify non-stationary, and investigate forecasting patterns. Applied statistical techniques to analyze price behavior and forecast future trends using the ARIMA model.
+
 **Key components:** Historical data analysis, moving average calculations (SMA, CMA, EMA), time-series visualization, stationarity testing, differencing, trend analysis, ARIMA modelling, and Bitcoin price forecasting. 
 
 ---
